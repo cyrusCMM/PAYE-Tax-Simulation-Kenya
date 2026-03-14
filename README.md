@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PAYE Revenue–Equity Simulation Grid
 
 This project develops a simulation framework for evaluating the **revenue and distributional effects of alternative PAYE tax rate structures** using administrative employment income data.
@@ -134,3 +135,7 @@ cyrus mutuku,
 PAYE Revenue–Equity Simulation  
 Public Finance Analysis
 
+=======
+# PAYE-Tax-Simulation-Kenya
+Simulation of alternative PAYE rate structures and revenue outcomes using administrative payroll data.
+>>>>>>> dd4008583d169847b74bba6cc89a422ae211a71d
