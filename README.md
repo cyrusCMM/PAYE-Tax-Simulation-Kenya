@@ -1,6 +1,6 @@
 # PAYE Tax Simulation – Kenya
 
-Simulation of PAYE tax policy alternatives using administrative payroll data to evaluate revenue–equity trade-offs.
+# Simulation of PAYE tax policy alternatives using administrative payroll data to evaluate revenue–equity trade-offs.
 
 This project builds a grid of alternative PAYE marginal tax rate structures and evaluates their impact on government revenue and tax progressivity using the Kakwani index.
 
