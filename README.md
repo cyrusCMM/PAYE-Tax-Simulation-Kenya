@@ -94,7 +94,7 @@ A positive value indicates a **progressive tax system**, where higher-income tax
 # Revenue–Equity Policy Dashboard
 
 The simulation results are summarized using a **Revenue–Equity Dashboard**, which visualizes the policy space across thousands of simulated PAYE systems.
-
+![PAYE Dashboard](paye_revenue_equity_dashboard.png)
 The dashboard includes:
 
 - Revenue vs progressivity policy space
