@@ -1,11 +1,17 @@
-<<<<<<< HEAD
-# PAYE Revenue–Equity Simulation Grid
+# PAYE Tax Simulation – Kenya
 
-This project develops a simulation framework for evaluating the **revenue and distributional effects of alternative PAYE tax rate structures** using administrative employment income data.
+Simulation of PAYE tax policy alternatives using administrative payroll data to evaluate revenue–equity trade-offs.
+
+This project builds a grid of alternative PAYE marginal tax rate structures and evaluates their impact on government revenue and tax progressivity using the Kakwani index.
+
+The repository contains:
+
+- A full PAYE microsimulation notebook
+- A grid of simulated tax systems
+- Revenue and progressivity metrics
+- Visualization dashboards of the policy space and Pareto frontier
 
 The analysis constructs a structured grid of marginal tax rate combinations and evaluates each tax system in terms of both **revenue performance** and **tax progressivity**. The resulting policy space is analyzed to identify the **Pareto frontier of efficient tax systems**, highlighting the trade-off between revenue generation and equity.
-
-
 
 # Project Objective
 
@@ -17,7 +23,6 @@ The objective of this project is to analyze how alternative marginal PAYE tax ra
 - The progressivity of the tax system
 
 Using taxpayer-level administrative employment income data, the simulation evaluates thousands of alternative tax systems and identifies **efficient PAYE structures that improve revenue and/or progressivity**.
-
 
 # PAYE Structure Used in the Model
 
@@ -132,10 +137,6 @@ openpyxl
 
 # Author
 cyrus mutuku, 
-PAYE Revenue–Equity Simulation  
-Public Finance Analysis
 
-=======
-# PAYE-Tax-Simulation-Kenya
-Simulation of alternative PAYE rate structures and revenue outcomes using administrative payroll data.
->>>>>>> dd4008583d169847b74bba6cc89a422ae211a71d
+
+
